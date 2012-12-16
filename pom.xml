@@ -43,6 +43,6 @@
   <scm>
     <connection>scm:git:git@github.com:openapp/json.git</connection>
     <developerConnection>scm:git:git@github.com:openapp/json.git</developerConnection>
-    <url>https://github.com/openapp/openapp</url>
+    <url>https://github.com/openapp/json</url>
   </scm>
 </project>
